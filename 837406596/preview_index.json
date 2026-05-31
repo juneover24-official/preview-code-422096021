@@ -1,7 +1,7 @@
 {
   "qq_number": "422096021",
   "group_number": "837406596",
-  "updated_at": "2026-05-31T13:41:31+00:00",
+  "updated_at": "2026-05-31T13:46:23+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -26,6 +26,12 @@
       "file": "咲の兔尾绒-融闷.bdi",
       "thumb": "咲の兔尾绒-融闷.bdi_py_26_light_thumb.png",
       "full": "咲の兔尾绒-融闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "咲の兔尾绒-彩闷",
+      "file": "咲の兔尾绒-彩闷.bdi",
+      "thumb": "咲の兔尾绒-彩闷.bdi_py_26_light_thumb.png",
+      "full": "咲の兔尾绒-彩闷.bdi_py_26_light_thumb.png"
     }
   ]
 }
