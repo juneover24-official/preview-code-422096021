@@ -1,7 +1,7 @@
 {
   "qq_number": "422096021",
   "group_number": "837406596",
-  "updated_at": "2026-06-13T11:33:08+00:00",
+  "updated_at": "2026-06-13T11:41:24+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -98,6 +98,12 @@
       "file": "咲の天使爱上-闷.bdi",
       "thumb": "咲の天使爱上-闷.bdi_py_26_light_thumb.png",
       "full": "咲の天使爱上-闷.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "咲の一碗天使牛乳-脆",
+      "file": "咲の一碗天使牛乳-脆.bdi",
+      "thumb": "咲の一碗天使牛乳-脆.bdi_py_26_light_thumb.png",
+      "full": "咲の一碗天使牛乳-脆.bdi_py_26_light_thumb.png"
     }
   ]
 }
