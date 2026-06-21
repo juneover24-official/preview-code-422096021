@@ -1,7 +1,7 @@
 {
   "qq_number": "422096021",
   "group_number": "837406596",
-  "updated_at": "2026-06-21T12:32:42+00:00",
+  "updated_at": "2026-06-21T12:39:00+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -122,6 +122,12 @@
       "file": "咲の酸砂草莓糖-闷.bds",
       "thumb": "咲の酸砂草莓糖-闷.bds_py_26_light_thumb.png",
       "full": "咲の酸砂草莓糖-闷.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "咲の酸砂草莓糖-脆.bds",
+      "thumb": "咲の酸砂草莓糖-脆.bds_py_26_light_thumb.png",
+      "full": "咲の酸砂草莓糖-脆.bds_py_26_light_thumb.png"
     }
   ]
 }
